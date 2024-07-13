@@ -12,7 +12,7 @@
     padding: 20px; */
 
 
-    width: 650px;
+    width: 700px;
     margin: 0 auto;
     padding: 20px;
     display: flex;
@@ -39,6 +39,7 @@ body{
 
 .card-desc{
 
+   width: 400; 
    text-align: center;
    color: #7856ff;
    padding: 30 15 20 15 ;
