@@ -1,2 +1,3 @@
-Statically styled page - non-adaptive, non respponsive 
-understanding the mistakes and clear them out in next stages of CSS styling
+Statically styled page - non-adaptive, non responsive 
+
+Basic things now, will up the game 
