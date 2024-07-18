@@ -1,5 +1,6 @@
 *{
     border-radius: 30px;   
+  box-sizing: border-box;
 }
 
 .card{
@@ -12,15 +13,17 @@
     padding: 20px; */
 
 
-    width: 700px;
+    width: 750px;
     margin: 0 auto;
     padding: 20px;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
     background: #ddebf8;
     color: #2b2839;
     border-bottom: 6px solid #d8cefe;
-    box-sizing: border-box;
+    
+    
     
 }
 
@@ -39,10 +42,13 @@ body{
 
 .card-desc{
 
-   width: 400; 
    text-align: center;
    color: #7856ff;
-   padding: 30 15 20 15 ;
+   width:500px;
+   height:200px;
+   margin-left: 20px;
+  padding:20px 0px 80px 0px ;
+
  
 }
 
@@ -52,5 +58,3 @@ body{
    border: 2px solid #d2c7ff;
  
 }
-
-
